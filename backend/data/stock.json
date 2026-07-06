@@ -1,0 +1,15 @@
+{
+  "Cotton Fabric Blue": {
+    "available": 500,
+    "unit": "metres",
+    "available_stock": null
+  },
+  "Silk Fabric Red": {
+    "available": 200,
+    "unit": "metres"
+  },
+  "Polyester Blend White": {
+    "available": 1000,
+    "unit": "metres"
+  }
+}

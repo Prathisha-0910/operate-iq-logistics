@@ -1,0 +1,7 @@
+{
+  "items": [
+    { "id": "ITM001", "name": "Cotton Fabric Blue", "unit": "metres", "stock": 30, "reorder_threshold": 20 },
+    { "id": "ITM002", "name": "Cotton Fabric Red", "unit": "metres", "stock": 80, "reorder_threshold": 20 },
+    { "id": "ITM003", "name": "Silk Fabric Green", "unit": "metres", "stock": 15, "reorder_threshold": 10 }
+  ]
+}

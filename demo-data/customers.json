@@ -1,0 +1,7 @@
+{
+  "customers": [
+    { "id": "CUST001", "name": "Priya Textiles", "tier": "VIP", "phone": "+91-9876543210" },
+    { "id": "CUST002", "name": "Rajan & Sons", "tier": "regular", "phone": "+91-9876543211" },
+    { "id": "CUST003", "name": "Meena Garments", "tier": "VIP", "phone": "+91-9876543212" }
+  ]
+}

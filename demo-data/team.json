@@ -1,0 +1,7 @@
+{
+  "team": [
+    { "id": "EMP001", "name": "Ravi", "role": "Operations", "handles": ["order", "stock_alert"] },
+    { "id": "EMP002", "name": "Divya", "role": "Finance", "handles": ["invoice", "payment"] },
+    { "id": "EMP003", "name": "Kumar", "role": "Support", "handles": ["complaint", "query"] }
+  ]
+}
